@@ -1,0 +1,15 @@
+{
+  "name": "Cherry Studio documents",
+  "short_name": "Cherry Studio documents",
+  "start_url": "/document/",
+  "scope": "/document/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/document/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

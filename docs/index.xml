@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Cherry Studio documents</title>
+    <link>https://cherrystudio.github.io/document/docs/</link>
+    <description>Recent content in Docs on Cherry Studio documents</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 13:43:39 +0700</lastBuildDate>
+    <atom:link href="https://cherrystudio.github.io/document/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera/Audio</title>
+      <link>https://cherrystudio.github.io/document/docs/components/camera/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/components/camera/</guid>
+      <description> Camera/Audio # Use when you want to record your face and voice during recording.&#xA;For first time use, browser will ask you for camera access. Please choose Allow on every visit </description>
+    </item>
+    <item>
+      <title>Initialize workspace</title>
+      <link>https://cherrystudio.github.io/document/docs/get-started/workspace/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/get-started/workspace/</guid>
+      <description>Workspace # Workspace is a folder in your machine disk that containing cherry studio record files, media files, &amp;hellip; We only have one workspace used at a time.&#xA;Initialize # Init workspace from empty folder Go to dashboard and click Init workspace . Then choose empty folder&#xA;Init workspace from existing workspace folder Go to dashboard and click Init workspace . Then choose a folder having init.csow file inside.</description>
+    </item>
+    <item>
+      <title>Intoduction</title>
+      <link>https://cherrystudio.github.io/document/docs/get-started/intro/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/get-started/intro/</guid>
+      <description>Introduction # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.&#xA;See demo</description>
+    </item>
+    <item>
+      <title>Media file</title>
+      <link>https://cherrystudio.github.io/document/docs/components/mediafile/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/components/mediafile/</guid>
+      <description>Media file # Use this to insert mp4 or mp3 media file.</description>
+    </item>
+    <item>
+      <title>Media file</title>
+      <link>https://cherrystudio.github.io/document/docs/components/note/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/components/note/</guid>
+      <description>Note # Insert note as annotation to give more information for your video.&#xA;For e.g you may want to give a link or a text to describe the code</description>
+    </item>
+    <item>
+      <title>Screen</title>
+      <link>https://cherrystudio.github.io/document/docs/components/editor/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/components/editor/</guid>
+      <description>Screen # Use this to record changes in your IDE&#xA;Supported IDE # For now, only Vscode&#xA;Preparation # download extension here install: code --install-extension cherry-vsc-recorder.vsix then follow the rest instruction Demo # https://youtu.be/8QC6vB-UNus</description>
+    </item>
+    <item>
+      <title>Screen</title>
+      <link>https://cherrystudio.github.io/document/docs/components/screen/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/components/screen/</guid>
+      <description>Screen # You can use this to capture the a browser, or any application running in your machine or entire screen.&#xA;Note**&#xA;Only can add maximum 3 screens at the same time. No restriction on how many screen in total during recording.&#xA;For first time use, browser will ask you for camera access. Please choose Allow on every visit</description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>https://cherrystudio.github.io/document/docs/components/terminal/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/docs/components/terminal/</guid>
+      <description>Terminal # Use this to record your terminal content&#xA;Preparation # If you don&amp;rsquo;t have pipx installed, follow this guideline&#xA;install cherryterm pipx install cherryterm verify installation: cherryterm version =&amp;gt; Cherryterm version: 0.1.2&#xA;then follow the rest instruction Demo # https://youtu.be/8QC6vB-UNus</description>
+    </item>
+  </channel>
+</rss>
