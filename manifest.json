@@ -1,6 +1,6 @@
 {
-  "name": "Cherry Studio documents",
-  "short_name": "Cherry Studio documents",
+  "name": "Cherry Studio",
+  "short_name": "Cherry Studio",
   "start_url": "/document/",
   "scope": "/document/",
   "display": "standalone",

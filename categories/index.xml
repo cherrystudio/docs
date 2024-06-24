@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Cherry Studio documents</title>
+    <title>Categories on Cherry Studio</title>
     <link>https://cherrystudio.github.io/document/categories/</link>
-    <description>Recent content in Categories on Cherry Studio documents</description>
+    <description>Recent content in Categories on Cherry Studio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://cherrystudio.github.io/document/categories/index.xml" rel="self" type="application/rss+xml" />
