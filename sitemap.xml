@@ -2,46 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cherrystudio.github.io/document/docs/record/camera/</loc>
+    <loc>https://cherrystudio.github.io/document/record/camera/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
     <loc>https://cherrystudio.github.io/document/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/edit/configure-frame/</loc>
+    <loc>https://cherrystudio.github.io/document/edit/configure-frame/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/edit/cut-video/</loc>
+    <loc>https://cherrystudio.github.io/document/edit/cut-video/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/</loc>
+    <loc>https://cherrystudio.github.io/document/edit/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/get-started/workspace/</loc>
+    <loc>https://cherrystudio.github.io/document/get-started/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/get-started/intro/</loc>
+    <loc>https://cherrystudio.github.io/document/get-started/workspace/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/record/mediafile/</loc>
+    <loc>https://cherrystudio.github.io/document/get-started/intro/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/record/note/</loc>
+    <loc>https://cherrystudio.github.io/document/record/mediafile/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/edit/preview/</loc>
+    <loc>https://cherrystudio.github.io/document/record/note/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/record/remark/</loc>
+    <loc>https://cherrystudio.github.io/document/edit/preview/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/record/editor/</loc>
+    <loc>https://cherrystudio.github.io/document/record/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/record/screen/</loc>
+    <loc>https://cherrystudio.github.io/document/record/remark/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
-    <loc>https://cherrystudio.github.io/document/docs/record/terminal/</loc>
+    <loc>https://cherrystudio.github.io/document/record/editor/</loc>
+    <lastmod>2024-06-24T13:43:39+07:00</lastmod>
+  </url><url>
+    <loc>https://cherrystudio.github.io/document/record/screen/</loc>
+    <lastmod>2024-06-24T13:43:39+07:00</lastmod>
+  </url><url>
+    <loc>https://cherrystudio.github.io/document/record/terminal/</loc>
     <lastmod>2024-06-24T13:43:39+07:00</lastmod>
   </url><url>
     <loc>https://cherrystudio.github.io/document/categories/</loc>
