@@ -31,6 +31,13 @@
     </item>
     <item>
       <title>Initialize workspace</title>
+      <link>https://cherrystudio.github.io/document/get-started/session/</link>
+      <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
+      <guid>https://cherrystudio.github.io/document/get-started/session/</guid>
+      <description>Session # To start recording, you need to create a recording session. There will be a folder created in workspace folder you initialized early.&#xA;//TODO: screenshot //TODO: demo&#xA;Next, checkout components</description>
+    </item>
+    <item>
+      <title>Initialize workspace</title>
       <link>https://cherrystudio.github.io/document/get-started/workspace/</link>
       <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
       <guid>https://cherrystudio.github.io/document/get-started/workspace/</guid>
@@ -41,7 +48,7 @@
       <link>https://cherrystudio.github.io/document/get-started/intro/</link>
       <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
       <guid>https://cherrystudio.github.io/document/get-started/intro/</guid>
-      <description>Introduction # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.&#xA;See [demo]&#xA;See sample result</description>
+      <description>Introduction # Cherry studio tool # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.&#xA;See [demo]&#xA;See sample result&#xA;How it works # Right after you grant Cherry Studio to access a disk folder in your computer, we can store workspace data there including files/folder related to your recording material thanks to modern javascript FileSystemAPI.&#xA;We only have access to workspace folder, we CAN&amp;rsquo;T access outside of it.</description>
     </item>
     <item>
       <title>Media file</title>

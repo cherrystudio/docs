@@ -3,17 +3,21 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Introduction # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.
+<meta name="description" content="Introduction # Cherry studio tool # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.
 See [demo]
-See sample result">
+See sample result
+How it works # Right after you grant Cherry Studio to access a disk folder in your computer, we can store workspace data there including files/folder related to your recording material thanks to modern javascript FileSystemAPI.
+We only have access to workspace folder, we CAN&rsquo;T access outside of it.">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="https://cherrystudio.github.io/document/get-started/intro/">
   <meta property="og:site_name" content="Cherry Studio">
   <meta property="og:title" content="Intoduction">
-  <meta property="og:description" content="Introduction # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.
+  <meta property="og:description" content="Introduction # Cherry studio tool # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.
 See [demo]
-See sample result">
+See sample result
+How it works # Right after you grant Cherry Studio to access a disk folder in your computer, we can store workspace data there including files/folder related to your recording material thanks to modern javascript FileSystemAPI.
+We only have access to workspace folder, we CAN’T access outside of it.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="get-started">
@@ -25,7 +29,7 @@ See sample result">
 <link rel="canonical" href="https://cherrystudio.github.io/document/get-started/intro/">
 <link rel="stylesheet" href="/document/book.min.28f02c9e3d9e9cfe6ec27879579f166bf14f8394d5c1fb99778a987064139f0c.css" integrity="sha256-KPAsnj2enP5uwnh5V58Wa/FPg5TVwfuZd4qYcGQTnww=" crossorigin="anonymous">
   <script defer src="/document/fuse.min.js"></script>
-  <script defer src="/document/en.search.min.e2ca5c73bb9634043898ef31d8605d138a33672dd4b084b6b3cfd317727ba3ab.js" integrity="sha256-4spcc7uWNAQ4mO8x2GBdE4ozZy3UsIS2s8/TF3J7o6s=" crossorigin="anonymous"></script>
+  <script defer src="/document/en.search.min.f0a5c0c4e3da70455b9991a3346cda8305b0c673a3e27a90f5b85a870344aa04.js" integrity="sha256-8KXAxOPacEVbmZGjNGzagwWwxnOj4nqQ9bhahwNEqgQ=" crossorigin="anonymous"></script>
 
   
 
@@ -44,7 +48,7 @@ https://github.com/alex-shpak/hugo-book
         
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/document/"><span>Cherry Studio</span>
+  <a class="flex align-center" href="/document/"><img src="/document/favicon.png" alt="Logo" /><span>Cherry Studio</span>
   </a>
 </h2>
 
@@ -139,7 +143,13 @@ https://github.com/alex-shpak/hugo-book
   
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#introduction">Introduction</a>
+      <ul>
+        <li><a href="#cherry-studio-tool">Cherry studio tool</a></li>
+        <li><a href="#how-it-works">How it works</a></li>
+        <li><a href="#we-dont">We don&rsquo;t</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
 
@@ -156,15 +166,51 @@ https://github.com/alex-shpak/hugo-book
   Introduction
   <a class="anchor" href="#introduction">#</a>
 </h2>
+<h3 id="cherry-studio-tool">
+  Cherry studio tool
+  <a class="anchor" href="#cherry-studio-tool">#</a>
+</h3>
 <p>Cherry studio is a powerful tool to create media content that make things easier, more effective,
 focus on coding tutorial helpers.</p>
 <p>See [demo]</p>
 <p>See <a href="https://cherrystudio.github.io/dashboard/media?src=https://drive.google.com/file/d/1ZMXfnKsdAGxzDL34xI9A9t91hFteFdkX/view?usp=sharing">sample result</a></p>
 <p><img
-        src="/document/get-started/session-screenshot.png" alt="session-screenshot.png"
+        src="/document/get-started/intro-screenshot.png" alt="intro-screenshot.png"
         
         
 /></p>
+<h3 id="how-it-works">
+  How it works
+  <a class="anchor" href="#how-it-works">#</a>
+</h3>
+<p>Right after you grant Cherry Studio to access a disk folder in your computer,
+we can store workspace data there including files/folder related to your recording material thanks to modern javascript <a href="https://developer.mozilla.org/en-US/docs/Web/API/File_System_API">FileSystemAPI</a>.</p>
+<p>We <strong>only have access to workspace</strong> folder, we <strong>CAN&rsquo;T access outside</strong> of it.</p>
+<p>we <strong>only can read/write inside workspace</strong> folder, we <strong>CAN&rsquo;T execute code/script/application</strong> there.</p>
+<p>Workspace structure:</p>
+<ul>
+<li>init.csow (workspace metadata file)</li>
+<li>sessions (contains all recording sessions)
+<ul>
+<li>[session-name]
+<ul>
+<li>init.csos (session metadata file)</li>
+<li>*.csoc (component file)</li>
+<li>*.csmp (cherry studio media player file, or exported file)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><code>Note: This will be updated over time.</code></p>
+<h3 id="we-dont">
+  We don&rsquo;t
+  <a class="anchor" href="#we-dont">#</a>
+</h3>
+<ul>
+<li>connect/send your recording data/video/components outside your computer</li>
+</ul>
+<p>Next, create first <a href="/document/get-started/workspace">Workspace</a></p>
 </article>
  
       
@@ -194,7 +240,13 @@ focus on coding tutorial helpers.</p>
   
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#introduction">Introduction</a>
+      <ul>
+        <li><a href="#cherry-studio-tool">Cherry studio tool</a></li>
+        <li><a href="#how-it-works">How it works</a></li>
+        <li><a href="#we-dont">We don&rsquo;t</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
 
