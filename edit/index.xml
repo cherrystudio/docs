@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edits on Cherry Studio</title>
-    <link>https://cherrystudio.github.io/document/edit/</link>
+    <link>https://docs.cherrystudio.io/edit/</link>
     <description>Recent content in Edits on Cherry Studio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2024 13:43:39 +0700</lastBuildDate>
-    <atom:link href="https://cherrystudio.github.io/document/edit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://docs.cherrystudio.io/edit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure frame</title>
-      <link>https://cherrystudio.github.io/document/edit/configure-frame/</link>
+      <link>https://docs.cherrystudio.io/edit/configure-frame/</link>
       <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
-      <guid>https://cherrystudio.github.io/document/edit/configure-frame/</guid>
+      <guid>https://docs.cherrystudio.io/edit/configure-frame/</guid>
       <description>Configure frame # Allow author to arrange component position on screen, when to display, and how to display&#xA;Demo:</description>
     </item>
     <item>
       <title>Cut video</title>
-      <link>https://cherrystudio.github.io/document/edit/cut-video/</link>
+      <link>https://docs.cherrystudio.io/edit/cut-video/</link>
       <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
-      <guid>https://cherrystudio.github.io/document/edit/cut-video/</guid>
+      <guid>https://docs.cherrystudio.io/edit/cut-video/</guid>
       <description>Cut video # Allow author to cut a part of recorded video.&#xA;Demo:</description>
     </item>
     <item>
       <title>Preview</title>
-      <link>https://cherrystudio.github.io/document/edit/preview/</link>
+      <link>https://docs.cherrystudio.io/edit/preview/</link>
       <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
-      <guid>https://cherrystudio.github.io/document/edit/preview/</guid>
+      <guid>https://docs.cherrystudio.io/edit/preview/</guid>
       <description> Preview # After you stopped recording, at session page, click Preview&#xA;In preview page we can:&#xA;Foresee how components are displayed Configure frame: arrange components, setup when display components. Cut video: Cut components from second to second </description>
     </item>
   </channel>
