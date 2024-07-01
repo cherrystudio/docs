@@ -48,7 +48,7 @@
       <link>https://docs.cherrystudio.io/get-started/intro/</link>
       <pubDate>Mon, 24 Jun 2024 13:43:39 +0700</pubDate>
       <guid>https://docs.cherrystudio.io/get-started/intro/</guid>
-      <description>Introduction # Cherry studio tool # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.&#xA;See [demo]&#xA;See sample result&#xA;How it works # Right after you grant Cherry Studio to access a disk folder in your computer, we can store workspace data there including files/folder related to your recording material thanks to modern javascript FileSystemAPI.&#xA;We only have access to workspace folder, we CAN&amp;rsquo;T access outside of it.</description>
+      <description>Introduction # Cherry studio tool # Cherry studio is a powerful tool to create media content that make things easier, more effective, focus on coding tutorial helpers.&#xA;See [Guidelines]&#xA;See demo&#xA;How it works # Right after you grant Cherry Studio to access a disk folder in your computer, we can store workspace data there including files/folder related to your recording material thanks to modern javascript FileSystemAPI.&#xA;We only have access to workspace folder, we CAN&amp;rsquo;T access outside of it.</description>
     </item>
     <item>
       <title>Media file</title>
